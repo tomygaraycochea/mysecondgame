@@ -15,3 +15,10 @@ friction = 0.2;
 /// @DnDHash : 7E1F26B8
 /// @DnDArgument : "var" "jp2"
 jp2 = 0;
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Health
+/// @DnDVersion : 1
+/// @DnDHash : 15F94D7C
+/// @DnDArgument : "health" "100"
+
+__dnd_health = real(100);
