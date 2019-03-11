@@ -16,13 +16,6 @@ friction = 0.2;
 /// @DnDArgument : "var" "jp"
 jp = 0;
 
-/// @DnDAction : YoYo Games.Instances.Sprite_Scale
-/// @DnDVersion : 1
-/// @DnDHash : 0BB78C3E
-/// @DnDArgument : "xscale" "-1"
-image_xscale = -1;
-image_yscale = 1;
-
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
 /// @DnDHash : 302671E8
